@@ -30,5 +30,5 @@ We use publicly available datasets for KOA grading:
 ├── stage_3_semi_supervised_qcnn/
 │   ├── 1_qcnn_model_definition.ipynb
 │   ├── 2_train_hierarchical_semi_supervised.ipynb
-│   ├── 3_evaluation.ipynb│
+│   ├── 3_evaluation.ipynb
 ```
