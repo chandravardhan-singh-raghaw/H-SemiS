@@ -1,4 +1,4 @@
-# Synergistic Fusion of Self- and Semi-Supervised Learning for Knee Osteoarthritis Severity Grading
+# H-SemiS: Hierarchical Fusion of Semi and Self-Supervised Learning for Knee Osteoarthritis Severity Grading
 
 ## Overview
 This repository implements a three-stage deep learning pipeline for automated Knee Osteoarthritis (KOA) severity grading from X-ray images.
